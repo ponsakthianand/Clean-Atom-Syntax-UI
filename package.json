@@ -1,0 +1,21 @@
+{
+  "name": "Clean-Atom-Syntax-UI",
+  "author": "PonsakthiAnand",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Clean Syntax UI for Atom",
+  "keywords": [
+    "rails",
+    "editor",
+    "syntax",
+    "theme",
+    "dark",
+    "css",
+    "php"
+  ],
+  "repository": "https://github.com/ponsakthianand/Clean-Atom-Syntax-UI",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
